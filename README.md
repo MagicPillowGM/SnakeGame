@@ -1,3 +1,3 @@
 # SnakeGame
 
- https://magicpillowgm.github.io/SnakeGame/
+ https://magicpillowgm.github.io/SnakeGame/index.html
